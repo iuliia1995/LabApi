@@ -1,0 +1,73 @@
+D:\Моя ИИ штука - тест\LabApi\LabApi\bin\Debug\net8.0\appsettings.Development.json
+D:\Моя ИИ штука - тест\LabApi\LabApi\bin\Debug\net8.0\appsettings.json
+D:\Моя ИИ штука - тест\LabApi\LabApi\bin\Debug\net8.0\LabApi.staticwebassets.endpoints.json
+D:\Моя ИИ штука - тест\LabApi\LabApi\bin\Debug\net8.0\LabApi.exe
+D:\Моя ИИ штука - тест\LabApi\LabApi\bin\Debug\net8.0\LabApi.deps.json
+D:\Моя ИИ штука - тест\LabApi\LabApi\bin\Debug\net8.0\LabApi.runtimeconfig.json
+D:\Моя ИИ штука - тест\LabApi\LabApi\bin\Debug\net8.0\LabApi.dll
+D:\Моя ИИ штука - тест\LabApi\LabApi\bin\Debug\net8.0\LabApi.pdb
+D:\Моя ИИ штука - тест\LabApi\LabApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Моя ИИ штука - тест\LabApi\LabApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Моя ИИ штука - тест\LabApi\LabApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Моя ИИ штука - тест\LabApi\LabApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Моя ИИ штука - тест\LabApi\LabApi\obj\Debug\net8.0\LabApi.csproj.AssemblyReference.cache
+D:\Моя ИИ штука - тест\LabApi\LabApi\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Моя ИИ штука - тест\LabApi\LabApi\obj\Debug\net8.0\LabApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Моя ИИ штука - тест\LabApi\LabApi\obj\Debug\net8.0\LabApi.AssemblyInfoInputs.cache
+D:\Моя ИИ штука - тест\LabApi\LabApi\obj\Debug\net8.0\LabApi.AssemblyInfo.cs
+D:\Моя ИИ штука - тест\LabApi\LabApi\obj\Debug\net8.0\LabApi.csproj.CoreCompileInputs.cache
+D:\Моя ИИ штука - тест\LabApi\LabApi\obj\Debug\net8.0\LabApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Моя ИИ штука - тест\LabApi\LabApi\obj\Debug\net8.0\LabApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Моя ИИ штука - тест\LabApi\LabApi\obj\Debug\net8.0\LabApi.sourcelink.json
+D:\Моя ИИ штука - тест\LabApi\LabApi\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Моя ИИ штука - тест\LabApi\LabApi\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Моя ИИ штука - тест\LabApi\LabApi\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Моя ИИ штука - тест\LabApi\LabApi\obj\Debug\net8.0\scopedcss\bundle\LabApi.styles.css
+D:\Моя ИИ штука - тест\LabApi\LabApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\Моя ИИ штука - тест\LabApi\LabApi\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Моя ИИ штука - тест\LabApi\LabApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\Моя ИИ штука - тест\LabApi\LabApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Моя ИИ штука - тест\LabApi\LabApi\obj\Debug\net8.0\swae.build.ex.cache
+D:\Моя ИИ штука - тест\LabApi\LabApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Моя ИИ штука - тест\LabApi\LabApi\obj\Debug\net8.0\LabApi.csproj.Up2Date
+D:\Моя ИИ штука - тест\LabApi\LabApi\obj\Debug\net8.0\LabApi.dll
+D:\Моя ИИ штука - тест\LabApi\LabApi\obj\Debug\net8.0\refint\LabApi.dll
+D:\Моя ИИ штука - тест\LabApi\LabApi\obj\Debug\net8.0\LabApi.pdb
+D:\Моя ИИ штука - тест\LabApi\LabApi\obj\Debug\net8.0\LabApi.genruntimeconfig.cache
+D:\Моя ИИ штука - тест\LabApi\LabApi\obj\Debug\net8.0\ref\LabApi.dll
+D:\Лабараторная Api (Студенты, Книги, Заявки, Товары, Задачи)\LabApi\LabApi\bin\Debug\net8.0\appsettings.Development.json
+D:\Лабараторная Api (Студенты, Книги, Заявки, Товары, Задачи)\LabApi\LabApi\bin\Debug\net8.0\appsettings.json
+D:\Лабараторная Api (Студенты, Книги, Заявки, Товары, Задачи)\LabApi\LabApi\bin\Debug\net8.0\LabApi.staticwebassets.endpoints.json
+D:\Лабараторная Api (Студенты, Книги, Заявки, Товары, Задачи)\LabApi\LabApi\bin\Debug\net8.0\LabApi.exe
+D:\Лабараторная Api (Студенты, Книги, Заявки, Товары, Задачи)\LabApi\LabApi\bin\Debug\net8.0\LabApi.deps.json
+D:\Лабараторная Api (Студенты, Книги, Заявки, Товары, Задачи)\LabApi\LabApi\bin\Debug\net8.0\LabApi.runtimeconfig.json
+D:\Лабараторная Api (Студенты, Книги, Заявки, Товары, Задачи)\LabApi\LabApi\bin\Debug\net8.0\LabApi.dll
+D:\Лабараторная Api (Студенты, Книги, Заявки, Товары, Задачи)\LabApi\LabApi\bin\Debug\net8.0\LabApi.pdb
+D:\Лабараторная Api (Студенты, Книги, Заявки, Товары, Задачи)\LabApi\LabApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Лабараторная Api (Студенты, Книги, Заявки, Товары, Задачи)\LabApi\LabApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Лабараторная Api (Студенты, Книги, Заявки, Товары, Задачи)\LabApi\LabApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Лабараторная Api (Студенты, Книги, Заявки, Товары, Задачи)\LabApi\LabApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Лабараторная Api (Студенты, Книги, Заявки, Товары, Задачи)\LabApi\LabApi\obj\Debug\net8.0\LabApi.csproj.AssemblyReference.cache
+D:\Лабараторная Api (Студенты, Книги, Заявки, Товары, Задачи)\LabApi\LabApi\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Лабараторная Api (Студенты, Книги, Заявки, Товары, Задачи)\LabApi\LabApi\obj\Debug\net8.0\LabApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лабараторная Api (Студенты, Книги, Заявки, Товары, Задачи)\LabApi\LabApi\obj\Debug\net8.0\LabApi.AssemblyInfoInputs.cache
+D:\Лабараторная Api (Студенты, Книги, Заявки, Товары, Задачи)\LabApi\LabApi\obj\Debug\net8.0\LabApi.AssemblyInfo.cs
+D:\Лабараторная Api (Студенты, Книги, Заявки, Товары, Задачи)\LabApi\LabApi\obj\Debug\net8.0\LabApi.csproj.CoreCompileInputs.cache
+D:\Лабараторная Api (Студенты, Книги, Заявки, Товары, Задачи)\LabApi\LabApi\obj\Debug\net8.0\LabApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Лабараторная Api (Студенты, Книги, Заявки, Товары, Задачи)\LabApi\LabApi\obj\Debug\net8.0\LabApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Лабараторная Api (Студенты, Книги, Заявки, Товары, Задачи)\LabApi\LabApi\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Лабараторная Api (Студенты, Книги, Заявки, Товары, Задачи)\LabApi\LabApi\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Лабараторная Api (Студенты, Книги, Заявки, Товары, Задачи)\LabApi\LabApi\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Лабараторная Api (Студенты, Книги, Заявки, Товары, Задачи)\LabApi\LabApi\obj\Debug\net8.0\scopedcss\bundle\LabApi.styles.css
+D:\Лабараторная Api (Студенты, Книги, Заявки, Товары, Задачи)\LabApi\LabApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\Лабараторная Api (Студенты, Книги, Заявки, Товары, Задачи)\LabApi\LabApi\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Лабараторная Api (Студенты, Книги, Заявки, Товары, Задачи)\LabApi\LabApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\Лабараторная Api (Студенты, Книги, Заявки, Товары, Задачи)\LabApi\LabApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Лабараторная Api (Студенты, Книги, Заявки, Товары, Задачи)\LabApi\LabApi\obj\Debug\net8.0\swae.build.ex.cache
+D:\Лабараторная Api (Студенты, Книги, Заявки, Товары, Задачи)\LabApi\LabApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Лабараторная Api (Студенты, Книги, Заявки, Товары, Задачи)\LabApi\LabApi\obj\Debug\net8.0\LabApi.csproj.Up2Date
+D:\Лабараторная Api (Студенты, Книги, Заявки, Товары, Задачи)\LabApi\LabApi\obj\Debug\net8.0\LabApi.dll
+D:\Лабараторная Api (Студенты, Книги, Заявки, Товары, Задачи)\LabApi\LabApi\obj\Debug\net8.0\refint\LabApi.dll
+D:\Лабараторная Api (Студенты, Книги, Заявки, Товары, Задачи)\LabApi\LabApi\obj\Debug\net8.0\LabApi.pdb
+D:\Лабараторная Api (Студенты, Книги, Заявки, Товары, Задачи)\LabApi\LabApi\obj\Debug\net8.0\LabApi.genruntimeconfig.cache
+D:\Лабараторная Api (Студенты, Книги, Заявки, Товары, Задачи)\LabApi\LabApi\obj\Debug\net8.0\ref\LabApi.dll
